@@ -1,0 +1,50 @@
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe.config
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Mercadinho\Mercadinho\bin\Debug\Mercadinho.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Mercadinho\Mercadinho\obj\Debug\Mercadinho.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Mercadinho\Mercadinho\obj\Debug\Mercadinho.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Mercadinho\Mercadinho\obj\Debug\Mercadinho.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Mercadinho\Mercadinho\obj\Debug\Mercadinho.pdb
+C:\Users\aluno\Desktop\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe.config
+C:\Users\aluno\Desktop\Mercadinho\Mercadinho\obj\Debug\Mercadinho.exe
+C:\Users\aluno\Desktop\Mercadinho\Mercadinho\obj\Debug\Mercadinho.pdb
+E:\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe.config
+E:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.exe
+E:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.pdb
+E:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csprojResolveAssemblyReference.cache
+E:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.Form1.resources
+E:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.Properties.Resources.resources
+E:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csproj.GenerateResource.Cache
+E:\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe
+E:\Mercadinho\Mercadinho\bin\Debug\Mercadinho.pdb
+J:\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe.config
+J:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.exe
+J:\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe
+J:\Mercadinho\Mercadinho\bin\Debug\Mercadinho.pdb
+J:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csprojResolveAssemblyReference.cache
+J:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.Form1.resources
+J:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.Properties.Resources.resources
+J:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csproj.GenerateResource.Cache
+J:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.pdb
+E:\Mercadinho\Mercadinho\bin\Debug\MySql.Data.dll
+L:\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe.config
+L:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.exe
+L:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.pdb
+L:\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe
+L:\Mercadinho\Mercadinho\bin\Debug\Mercadinho.pdb
+L:\Mercadinho\Mercadinho\bin\Debug\MySql.Data.dll
+L:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csprojResolveAssemblyReference.cache
+L:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.Form1.resources
+L:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.Properties.Resources.resources
+L:\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csproj.GenerateResource.Cache
+K:\Pen Drive\Arquivos\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csprojResolveAssemblyReference.cache
+K:\Pen Drive\Arquivos\Mercadinho\Mercadinho\obj\Debug\Mercadinho.Form1.resources
+K:\Pen Drive\Arquivos\Mercadinho\Mercadinho\obj\Debug\Mercadinho.Properties.Resources.resources
+K:\Pen Drive\Arquivos\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csproj.GenerateResource.Cache
+K:\Pen Drive\Arquivos\Mercadinho\Mercadinho\obj\Debug\Mercadinho.exe
+K:\Pen Drive\Arquivos\Mercadinho\Mercadinho\obj\Debug\Mercadinho.pdb
+K:\Pen Drive\Arquivos\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe.config
+K:\Pen Drive\Arquivos\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe
+K:\Pen Drive\Arquivos\Mercadinho\Mercadinho\bin\Debug\Mercadinho.pdb
